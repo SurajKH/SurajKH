@@ -6,12 +6,14 @@
 - 🌱 I’m currently learning React,node.js
 - 💬 Ask me about Web Technologies,Competitve Programming
 -  😄 Pronouns:He/His
+-  ⚡ Fun fact:Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKH&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=SurajKH&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKH&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
