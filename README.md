@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React,node.js
 - 💬 Ask me about Web Technologies,Competitve Programming
 -  😄 Pronouns:He/His
--  ⚡ Fun fact:Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.
+-  ⚡ Fun fact:If at first you don’t succeed then call it version 1.0 😄
 
 
 
