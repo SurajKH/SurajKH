@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hello , I'm Suraj.K.H 👋
 
 
 **SurajKH/SurajKH** 
 
 - 🌱 I’m currently learning React,node.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Web Technologies,Competitve Programming
 
 
