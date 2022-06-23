@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React,node.js
 - 💬 Ask me about Web Technologies,Competitve Programming
 -  😄 Pronouns:He/His
--  ⚡ Fun fact:If at first you don’t succeed then call it version 1.0 😄
+-  ⚡ Fun fact:If at first you don’t succeed then call it version 1.0 😂
 
 
 
@@ -15,6 +15,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKH&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <div align="center">
+  
+### Developer Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>  
 
 ### Show some ❤️ by starring some of the repositories!
 
