@@ -9,7 +9,7 @@
 -  ⚡ Fun fact:If at first you don’t succeed then call it version 1.0 😂
 
 
-<!-- ### Languages and Tools:
+ ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
@@ -28,7 +28,7 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 <br />
 <br />
- -->
+ 
 ### Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SurajKH&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br/>
@@ -37,8 +37,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKH&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <div align="center">
   
-### Developer Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>  
 
 ### Show some ❤️ by starring some of the repositories!
 
