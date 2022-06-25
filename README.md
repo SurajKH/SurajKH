@@ -2,7 +2,7 @@
 
 
 **SurajKH/SurajKH** 
-- 🔭 I’m currently working on Chat Application
+- 🔭 I’m currently working on Covid-19 Tracker Application using Chart.js
 - 🌱 I’m currently learning React,Node.js
 - 💬 Ask me about Web Technologies,Competitve Programming
 -  😄 Pronouns:He/His
@@ -14,6 +14,7 @@
 
 ### Most Used Languages and Tools
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKH&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <div align="center">
   
 
