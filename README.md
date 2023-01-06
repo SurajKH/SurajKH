@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJS,C++**
 
-- ⚡ Fun fact **If at first you don’t succeed then call it version 1.0**
+- ⚡ Fun fact **If at first you don’t succeed then call it as version 1.0**
 
 <p>
   Languages and Tools
