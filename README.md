@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Suraj K H</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently working on **Travel Blog Web Application**<br>🌱 I’m currently learning **Javascript,ReactJS,MongoDB,NodeJS,ExpressJS**<br>💬 Ask me about   **Competitive Programming,C++,Java**<br>⚡ Fun fact:**If at first you don’t succeed then call it as version 1.0**
 
