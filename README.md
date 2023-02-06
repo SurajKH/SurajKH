@@ -14,7 +14,7 @@
 - ⚡ Fun fact **If at first you don’t succeed then call it as version 1.0**
 
 <p>
-  **Languages and Tools**
+  <h3>Languages and Tools</h3>
   <br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -27,4 +27,4 @@
     
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajkh&" alt="surajkh" />**Github Stats**</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajkh&" alt="surajkh" /></p>
