@@ -15,4 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+[![SurajKH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajkh)](https://github.com/surajkh/github-readme-activity-graph)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
