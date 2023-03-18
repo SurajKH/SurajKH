@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Travel Blogs Application.<br><br>🌱 I’m currently learning -  ReactJS,JavaScript,MongoDB,ExpressJS,NodeJS.<br><br>💬 Ask me about - C++,Java,Competitive Programming.<br><br>⚡ Fun fact - If at first you don’t succeed then call it as version 1.0<br><br>
+🔭 I’m currently working on - Travel Blogs Application.<br><br>🌱 I’m currently learning -  ReactJS,JavaScript,MongoDB,ExpressJS,NodeJS.<br><br>💬 Ask me about - C++,Java,Competitive Programming.<br><br>⚡ Fun fact - If at first you don’t succeed then call it as version 1.0 .<br><br>
 
 
 # 💻 Tech Stack:
