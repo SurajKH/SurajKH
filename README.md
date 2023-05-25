@@ -17,6 +17,6 @@
 
 <!-- [![SurajKH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajkh&theme=dracula)](https://github.com/surajkh/github-readme-activity-graph) -->
 
-[![SurajKH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=surajkh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![SurajKH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=surajkh&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
