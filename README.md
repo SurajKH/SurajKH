@@ -11,8 +11,6 @@
  
  # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SurajKH&theme=dark&hide_border=false)<br/>
-## 🏆 GitHub Trophies
-![](https://github-readme-stats.vercel.app/api?username=SurajKH&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
