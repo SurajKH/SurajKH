@@ -9,8 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SurajKH&theme=dark&hide_border=false)<br/>
  -->
  
- # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SurajKH&theme=dark&hide_border=false)<br/>
+ <!-- # 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=SurajKH&theme=dark&hide_border=false)<br/> -->
 
 <!-- [![SurajKH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SurajKH&theme=dracula)](https://github.com/SurajKH/github-readme-activity-graph) -->
 
