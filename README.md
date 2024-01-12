@@ -22,3 +22,22 @@
 <!-- [![SurajKH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=surajkh&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+<p>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/652118496d6d83ae0ab12238?variant=dark" alt="roadmap.sh"/></a>
+</p>
+
+---
+
+<p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SurajKH&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="surajkh" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SurajKH&show_icons=true&theme=dark&locale=en" alt="SurajKH" />
+</details>
+</p>
+
