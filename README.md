@@ -22,6 +22,7 @@ https://github-profile-trophy.vercel.app/?username=surajkh&theme=radical
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=surajkh)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://github-profile-trophy.vercel.app/?username=surajkh" />
 
 <!-- [![SurajKH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajkh&theme=dracula)](https://github.com/surajkh/github-readme-activity-graph) -->
 
