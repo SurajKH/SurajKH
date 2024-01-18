@@ -10,7 +10,7 @@
  -->
 ###  📊 GitHub Trophies: 
 
-https://github-profile-trophy.vercel.app/?username=SurajKH&theme=radical
+https://github-profile-trophy.vercel.app/?username=surajkh&theme=radical
 
  
  # 📊 GitHub Streak Stats:
