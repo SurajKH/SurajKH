@@ -19,7 +19,9 @@ https://github-profile-trophy.vercel.app/?username=surajkh&theme=radical
  [![SurajKH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SurajKH&theme=dracula)](https://github.com/SurajKH/github-readme-activity-graph) 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=surajkh)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- [![SurajKH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajkh&theme=dracula)](https://github.com/surajkh/github-readme-activity-graph) -->
 
