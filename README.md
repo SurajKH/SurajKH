@@ -8,10 +8,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=SurajKH&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SurajKH&theme=dark&hide_border=false)<br/>
  -->
-###  📊 GitHub Trophies: 
+<!-- ###  📊 GitHub Trophies: 
 
 <img src="https://github-profile-trophy.vercel.app/?username=surajkh" />
-
+-->
  
  # 📊 GitHub Streak Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SurajKH&theme=dark&hide_border=false)<br/> 
