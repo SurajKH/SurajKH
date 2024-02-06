@@ -19,7 +19,7 @@
 
  [![SurajKH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SurajKH&theme=dracula)](https://github.com/SurajKH/github-readme-activity-graph) 
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote -->
 
 
 <!-- [![SurajKH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajkh&theme=dracula)](https://github.com/surajkh/github-readme-activity-graph) -->
